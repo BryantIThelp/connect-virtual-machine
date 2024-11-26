@@ -12,7 +12,7 @@ Connecting to Virtual Machine</h1>
 
 - Microsoft Azure (Virtual Machines/Compute)
 
-<h2>Operating Systems Used </h2>
+<h2> Systems Used </h2>
 
 - Windows 10 (21H2)
 - Remote Desktop
