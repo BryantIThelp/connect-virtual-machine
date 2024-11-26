@@ -15,7 +15,7 @@ Connecting to Virtual Machine</h1>
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Remote Desktop
+
 
 
 
