@@ -2,8 +2,8 @@
 
 </p>
 
-Inspecting Network and ICMP Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe icmp and network traffic to and from Azure Virtual Machines with Wireshark. <br />
+Connecting to Virtual Machine</h1>
+ <br />
 
 
 
