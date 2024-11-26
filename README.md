@@ -11,7 +11,7 @@ Connecting to Virtual Machine</h1>
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-
+- Remote Desktop)
 <h2> Systems Used </h2>
 
 - Windows 10 (21H2)
