@@ -19,7 +19,7 @@ Connecting to Virtual Machine</h1>
 
 
 
-<h2>Actions and Observations</h2>
+<h2>Connection Steps</h2>
 
 
 1.a Log into your Microsoft Azure account and at the Home screen click on Virtual machines
